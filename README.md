@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Gabriel Fernandez Melendez
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFernandezMelendez&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFernandezMelendez&layout=compact&theme=tokyonight)
-
-
 🎓 Multiplatform Application Developer (DAM)  
 💻 Web Developer | Frontend & Backend  
 📍 Spain  
@@ -77,9 +72,9 @@ I am proactive, creative and always eager to learn new technologies.
 
 ## 📫 Contact Me
 
-📧 YourEmail@email.com  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 Portfolio (if you have one)
+📧 gabriel.fernandezdeveloper@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/gabriel-fernández-meléndez-336640238/)  
+🌐 Portfolio on github
 
 ---
 
