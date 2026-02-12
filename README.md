@@ -5,7 +5,9 @@
 📍 Spain  
 
 ---
-
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVraXU3OTB6a2tvZGF4ejlzaHgwa3ozdWtlM3h4OHpjOWI3dGh4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+</p>
 ## 🚀 About Me
 
 I am a Multiplatform Application Developer passionate about building modern, scalable and user-friendly applications.
